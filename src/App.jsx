@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';*/
 import Profile from './components/profile/Profile';
 import FriendList from './components/friendlist/FriendList';
 import TransactionHistory from './components/transactionhistory/TransactionHistory';
