@@ -1,7 +1,7 @@
 /*import React from 'react';*/
 import Profile from './components/profile/Profile';
-import FriendList from './components/friendlist/FriendList';
-import TransactionHistory from './components/transactionhistory/TransactionHistory';
+import FriendList from './components/friendList/FriendList';
+import TransactionHistory from './components/transactionHistory/TransactionHistory';
 
 import userData from './data/userData.json';
 import friends from './data/friends.json';
